@@ -322,11 +322,11 @@ a {
   text-decoration: none;
 }
 
-@media (max-width: 992px) {
+/* @media (max-width: 992px) {
   #btn-collapse {
     display: none;
   }
-}
+} */
 .layout .sidebar .pro-sidebar-logo {
   display: flex;
   align-items: center;
